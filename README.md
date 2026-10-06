@@ -1,136 +1,170 @@
-# 📊 Google Play Store Analytics & Insights Dashboard
+# 🚀 Google Play Store Analytics & Insights Dashboard
 
 <div align="center">
 
-### An Interactive Data Analytics & Business Intelligence Dashboard
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=850&lines=Google+Play+Store+Analytics+Dashboard;Interactive+Business+Intelligence+Platform;Data+Analytics+%7C+Machine+Learning+%7C+Visualization;Built+with+Python+%2B+Streamlit+%2B+Plotly" />
 
-**Built with Python, Streamlit, Plotly, Pandas, NumPy, Scikit-learn, and optional Power BI**
+<br>
 
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Interactive_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-
-**[🚀 Live Dashboard](https://app-play-store-analytics-dashboard-pmmyeqzcgbnuutsuxyihxb.streamlit.app/)** · **[💻 GitHub Repository](https://github.com/shamsiyakp030-oss/Google-Play-Store-Analytics-Insights-Dashboard)**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Google%20Play%20Analytics&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interactive%20Data%20Analytics%20%7C%20Business%20Intelligence%20Dashboard&descAlignY=60" />
 
 ---
 
-## 🌟 Project Overview
+### 📊 Interactive Data Analytics & Business Intelligence Platform
 
-**Google Play Store Analytics & Insights Dashboard** is an interactive data analytics and business intelligence application developed as part of a Google Play Store Data Analytics Internship project.
+**Developed using Python, Streamlit, Plotly, Pandas, NumPy, Scikit-learn, and Power BI**
 
-The project transforms Google Play Store application data into meaningful insights through data cleaning, preprocessing, exploratory analysis, statistical analysis, interactive visualizations, category comparisons, trend analysis, clustering, and dashboard reporting.
-
-The application is implemented as a multi-page **Streamlit** dashboard and uses **Plotly** for interactive visual analytics. **Scikit-learn** supports normalization and clustering analysis, while **Power BI** is included as an optional business-intelligence component.
-
----
-
-## 🎯 Project Objectives
-
-- 🧹 Clean, transform, and preprocess Google Play Store data.
-- 🔎 Perform exploratory data analysis.
-- 📊 Build interactive dashboards for application performance analysis.
-- 📈 Analyze ratings, reviews, installs, size, categories, and update patterns.
-- 🔵 Explore relationships and dense regions in app-performance data.
-- 🌞 Analyze category and rating hierarchies using a Sunburst visualization.
-- 🗓️ Analyze monthly installation patterns using a calendar heatmap.
-- 🌊 Compare category trends using a streamgraph.
-- 🔥 Rank and cluster categories using normalized performance metrics.
-- 🎯 Compare category performance across multiple dimensions using a radar chart.
-- 💡 Generate data-driven business insights through interactive analytics.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-Interactive_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-Interactive_Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
-## ✨ Key Features
+### 🌐 Live Links
 
-### 📊 Interactive Analytics
+<p align="center">
 
-- Multi-page Streamlit dashboard
-- Dynamic filters and selectors
-- Interactive Plotly visualizations
-- KPI cards and summary metrics
-- Category-level comparisons
-- Interactive hover information
-- Data-driven business insights
+<a href="https://app-play-store-analytics-dashboard-pmmyeqzcgbnuutsuxyihxb.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Dashboard-Visit_Now-success?style=for-the-badge"/>
+</a>
 
-### 🧹 Data Processing
+<a href="https://github.com/shamsiyakp030-oss/Google-Play-Store-Analytics-Insights-Dashboard">
+<img src="https://img.shields.io/badge/💻_GitHub-Repository-black?style=for-the-badge&logo=github"/>
+</a>
 
-- Missing-value handling
-- Duplicate detection
-- Data type conversion
-- Numeric normalization
-- Feature transformation
-- Category and app-level filtering
-- Shared reusable data-cleaning utilities
-
-### 📈 Advanced Analysis
-
-- Hexbin density analysis
-- Sunburst hierarchy analysis
-- Calendar heatmap and trend analysis
-- Streamgraph category trends
-- Hierarchical clustering
-- Z-score normalization
-- Composite category ranking
-- Radar-based multi-metric comparison
-
-### 🖥️ Dashboard Experience
-
-- Professional dark-themed interface
-- Separate analytical modules
-- IST-based access controls where required by the project specification
-- Download-ready project assets
-- Optional Power BI reporting
+</p>
 
 ---
 
-## 📊 Dashboard Modules
+## ✨ Project Overview
 
-| # | Module | Python File | Purpose |
-|---|---|---|---|
-| 🏠 | Executive Overview | `app.py` | Landing page, KPIs, project overview, and navigation |
-| 🔵 | Hexbin Density | `1_Hexbin_Density.py` | Analyze app size, rating, installs, and dense performance regions |
-| 🌞 | Sunburst Analysis | `2_Sunburst_Analysis.py` | Explore Country → Category → App Type → Rating Band hierarchy |
-| 🗓️ | Calendar Heatmap | `3_Calendar_Heatmap.py` | Analyze monthly installs, growth, rolling averages, and forecast status |
-| 🌊 | Streamgraph Analysis | `4_Streamgraph_Analysis.py` | Compare category activity and trends over time |
-| 🔥 | Cluster Heatmap | `5_Cluster_Heatmap.py` | Rank and cluster the top categories using multiple performance metrics |
-| 🎯 | Radar Chart | `6_Radar_Chart.py` | Compare category performance across multiple dimensions |
+Google Play Store Analytics & Insights Dashboard is a professional multi-page analytics application designed to transform raw Google Play Store data into actionable business intelligence.
+
+The project combines:
+
+✅ Data Cleaning
+✅ Exploratory Data Analysis
+✅ Statistical Analysis
+✅ Machine Learning
+✅ Interactive Visualizations
+✅ Category Ranking
+✅ Clustering Analysis
+✅ Dashboard Reporting
 
 ---
 
-## 🔍 Analytical Highlights
-
-### 🔵 Hexbin Density
-
-The Hexbin module explores the relationship between **app size and rating**, using installation intensity to understand dense regions of the dataset.
-
-### 🌞 Sunburst Analysis
-
-The Sunburst module provides a hierarchical view of:
-
-**Country → Category → App Type → Rating Band**
-
-It supports category filtering, installation-based sizing, review-weighted rating analysis, drill-down exploration, and interactive hover details.
-
-When a dataset does not contain a genuine country field, the dashboard does not fabricate country-level results.
-
-### 🗓️ Calendar Heatmap
-
-The Calendar Heatmap focuses on **monthly installs** and uses:
-
-- Category selection
-- Monthly installation analysis
-- Month-over-month growth
-- Three-month rolling averages
-- Forecast-versus-actual comparison
-- Interactive hover information
-
-This module uses:
+## 📊 Dashboard Architecture
 
 ```text
-data/googleplaystore (2).csv
+Raw Dataset
+     │
+     ▼
+Data Cleaning & Transformation
+     │
+     ▼
+Feature Engineering
+     │
+     ▼
+Statistical Analysis
+     │
+     ▼
+Interactive Visualizations
+     │
+     ▼
+Business Insights
+```
+
+---
+
+## 📈 Dashboard Modules
+
+| Module                 | Purpose                  |
+| ---------------------- | ------------------------ |
+| 🏠 Executive Dashboard | KPIs & Overview          |
+| 🔵 Hexbin Density      | Size vs Rating Analysis  |
+| 🌞 Sunburst Analysis   | Hierarchical Exploration |
+| 🗓 Calendar Heatmap    | Monthly Installs         |
+| 🌊 Streamgraph         | Trend Analysis           |
+| 🔥 Cluster Heatmap     | Category Ranking         |
+| 🎯 Radar Chart         | Multi-Metric Comparison  |
+
+---
+
+## 🛠 Technology Stack
+
+```text
+Python
+│
+├── Pandas
+├── NumPy
+├── Plotly
+├── Streamlit
+├── Scikit-learn
+├── Matplotlib
+└── Power BI
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+Google-Play-Store-Analytics-Dashboard/
+│
+├── app.py
+├── pages/
+│   ├── 1_Hexbin_Density.py
+│   ├── 2_Sunburst_Analysis.py
+│   ├── 3_Calendar_Heatmap.py
+│   ├── 4_Streamgraph_Analysis.py
+│   ├── 5_Cluster_Heatmap.py
+│   └── 6_Radar_Chart.py
+│
+├── data/
+│   └── googleplaystore (2).csv
+│
+├── utils/
+├── reports/
+├── dashboard_files/
+└── requirements.txt
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shamsiyakp030-oss&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsiyakp030-oss&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💡 Key Insights
+
+📈 Top-performing categories by installs
+⭐ Review-weighted rating analysis
+🔥 Category clustering using machine learning
+📊 Installation trends over time
+🎯 Multi-metric category comparison
+🌍 Country-wise analytical hierarchy
+📅 Forecast vs Actual performance analysis
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, consider giving it a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:34A853&height=120&section=footer"/>
+
+</div>
